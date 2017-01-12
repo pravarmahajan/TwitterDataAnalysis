@@ -1,0 +1,6 @@
+CONSUMER_KEY    = "0VXL5jdU5MAVmLRJtzce3DJyn"
+CONSUMER_SECRET = "Omg6jBN0PAH5VdJFr6VR62MFXFQxEI2tYSXMxMgGmFYHZPfXDo"
+ACCESS_TOKEN    = "16561841-H3m0TkDozOFBixgesFRayvIvAjTKl1xUiVy7lVwWS"
+ACCESS_SECRET   = "mJ6vhnpruUF7c0a7QBoO0SyBU3OsmCzNc1rCZE1mIPahI"
+
+twitter_data_filename = "twitter_data_file.dat"
